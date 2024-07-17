@@ -15,6 +15,6 @@
 * Datasets: Conjuntos de dados utilizados nas aulas para prática.
 * Análises e Insights: Resultados das análises de dados realizadas durante o curso.
 # Como Utilizar Este Repositório
-* Instale as dependências: Certifique-se de ter o Python e a biblioteca Pandas instalados. Você pode instalar as dependências usando: pip install -r requirements.txt
+* Instale as dependências: Certifique-se de ter o Python e a biblioteca Pandas instalados. Você pode instalar as dependências usando: pip install pandas
 * Explore os notebooks: Abra os notebooks Jupyter para seguir as aulas e realizar os exercícios.
 # Aproveite o aprendizado e não hesite em contribuir com suas próprias análises e insights!
